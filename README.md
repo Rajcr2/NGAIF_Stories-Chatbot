@@ -64,11 +64,5 @@ Other Utility Libraries : **json**, **pickle**, **numpy**, **random**.
 https://github.com/user-attachments/assets/321f36d7-521a-4ce7-8e10-32973aa38f5e
 
 
-### GPT-2 Based Fine Tuning :
 
-Training Results :
-
-![training](https://github.com/user-attachments/assets/177099b8-9762-4d7b-b6eb-fc8ca96b2239)
-
-Results are Satisfactory will be improved further after passing more intents. Stay Tuned ...
 
